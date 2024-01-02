@@ -13,7 +13,7 @@ export default function Home() {
       // Origin:"http://localhost:3000/login",
       method: 'POST',
       headers: {
-        'Content-Type': 'application/json'
+        'Content-Type': 'application/json' 
       }
 
     });
